@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license !== 'None') {
-        return'[!Github License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)';
+        return '[!Github License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)';
     }  
         return "";       
 }
@@ -33,10 +33,12 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 ## Description
   ${data.description}
+## Screenshots
+    ${data.screenshots}
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
-* [Laguage & Dependencies](#language&dependencies)
+* [Laguage & Dependencies](#language)
 * [How to use](#howtouse)
 * [Contributors](#contributors)
 * [Testing](#testing)

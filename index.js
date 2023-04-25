@@ -29,15 +29,19 @@ const questions = [
     },
     {
         type: 'input',
+        name: 'features',
+        message: 'What does your project do?',
+    },
+    {
+        type: 'input',
+        name: 'language',
+        message: 'What language and dependencies were used to create this project?',
+    },
+    {
+        type: 'input',
         name: 'howtouse',
         message: 'What does the user need to know about using this application?',
 
-    },
-    {
-        type: 'checkbox',
-        name: 'license',
-        message: 'What kind of license should your project have?',
-        choices: ['MIT','None'],
     },
     {
         type: 'input',
@@ -55,13 +59,17 @@ const questions = [
         message: 'Do you have any questions?',
     },
     {
+        type: 'checkbox',
+        name: 'license',
+        message: 'What kind of license should your project have?',
+     choices: ['MIT','None'],
+    },
+    {
         type: 'input',
-        name: 'link',
+        name: 'deployedURL',
         message: 'Please provide a link to your project:',
-    }
-
+    },
 ];
-
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     return fs.writeFileSync(path.join(process.cwd(), fileName), data);
