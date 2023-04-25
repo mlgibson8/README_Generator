@@ -1,9 +1,9 @@
-# final test!
+# Readme Generator
   [!Github License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-  this is a test!
+  This makes readmes
 ## Screenshots
-    url link(url@jpg)
+    ![Screenshot](undefined)
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
@@ -16,11 +16,11 @@
 ## Installation
     npm install inquirer@8.2.4
 ## Features
-    makes a readme after answering questions
+    this generates readmes after you answer the prompts
 ## Language & Dependencies
-    JS, inquiere
+    js inquirer
 ## How to use
-    not a lot
+    not alot
 ## Contributors
     mlgibson8
 ## Testing

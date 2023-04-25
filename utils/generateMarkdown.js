@@ -34,7 +34,7 @@ function generateMarkdown(data) {
 ## Description
   ${data.description}
 ## Screenshots
-    ${data.screenshots}
+    ![Screenshot](${data.screenshot})
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
