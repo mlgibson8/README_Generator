@@ -3,7 +3,7 @@
 ## Description
   This makes Readmes!
 ## Screenshots
-![Screenshot](C:\users\michael\bootcamp\README_Generator\readme.png)
+![Screenshot](https://github.com/mlgibson8/README_Generator/blob/main/readme.png)
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
@@ -30,7 +30,7 @@
 ## License
     MIT
 ## Deployed Application URL
-![link](https://github.com/mlgibson8/README_Generator)
+[link](https://github.com/mlgibson8/README_Generator)
 
 ## Deployed Video
-![video](https://drive.google.com/file/d/15oJCLhW9x-nEzB7GZLdv_UqPuZjuSR7K/view?usp=sharing)
+[video](https://drive.google.com/file/d/15oJCLhW9x-nEzB7GZLdv_UqPuZjuSR7K/view?usp=sharing)
