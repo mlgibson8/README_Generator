@@ -20,7 +20,7 @@
 ## Language & Dependencies
     JS inquirer
 ## How to use
-    not alot
+    install inquirer, run with node, answer questions
 ## Contributors
     mlgibson8
 ## Testing
