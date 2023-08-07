@@ -1,9 +1,9 @@
-# README Generator
-![Github License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# Michael Gibons Portfolio
+  [!Github License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-  This makes Readmes!
+  This is my React Portfolio to show front-end skills and  link to my other projects
 ## Screenshots
-![Screenshot](https://github.com/mlgibson8/README_Generator/blob/main/readme.png)
+ ![https://github.com/mlgibson8/Michael_Portfolio/blob/main/src/assets/Portfolio.png]
 ## Table of Contents
 * [Installation](#installation)
 * [Features](#features)
@@ -14,23 +14,21 @@
 * [Questions](#questions)
 * [License](#license)
 ## Installation
-    npm install inquirer@8.2.4
+    npm install, npm start
 ## Features
-    Genrates Readmes after prompts are answered
+    runs a react application
 ## Language & Dependencies
-    JS inquirer
+    Javascript, React, Tailwinds.css
 ## How to use
-    install inquirer, run with node, answer questions
+    n/a
 ## Contributors
     mlgibson8
 ## Testing
-    node index.js
+    n/a
 ## Questions
     Please contact me at mlgibson8@gmail.com for any questions.
 ## License
-    MIT
+    
 ## Deployed Application URL
-[link](https://github.com/mlgibson8/README_Generator)
+    https://github.com/mlgibson8/Michael_Portfolio
 
-## Deployed Video
-[video](https://drive.google.com/file/d/15oJCLhW9x-nEzB7GZLdv_UqPuZjuSR7K/view?usp=sharing)
